@@ -1,1 +1,2 @@
-flask==0.10.1
+certifi==2021.5.30
+wincertstore==0.2
